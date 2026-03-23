@@ -6,8 +6,8 @@
 **Education:** Class 10 Student  
 **Location:** Born in Mymensingh, raised in Dhaka  
 
-I've had a few name changes over time—first Srabon, then Mehedi Hasan Miraz, and now Mirazul Haq Srabon. Everyone simply calls me Miraz.  
-I’m passionate about web development, especially **Laravel**, and I enjoy exploring new programming languages like Python. I love finding bugs, building projects, and continuously learning new skills.
+Everyone simply calls me Miraz. 
+I’m passionate about web development, especially **Laravel**, and I enjoy exploring new programming languages. I love finding bugs, building projects, and continuously learning new skills.
 
 ---
 
