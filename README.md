@@ -4,10 +4,9 @@
 **Date of Birth:** 18 December 2009 / 1 Muharram 1431 AH  
 **Religion:** Islam  
 **Education:** Class 10 Student  
-**Location:** Born in Mymensingh, raised in Dhaka  
+**Location:** Born in Mymensingh, currently residing in Dhaka  
 
-Everyone simply calls me Miraz. 
-I’m passionate about web development, especially **Laravel**, and I enjoy exploring new programming languages. I love finding bugs, building projects, and continuously learning new skills.
+I am a motivated and passionate web developer with a particular focus on Laravel. I enjoy exploring new programming languages, identifying and resolving bugs, and building functional, high-quality projects. I am committed to continuous learning and improving my technical skills to deliver efficient and innovative solutions.
 
 ---
 
