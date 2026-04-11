@@ -1,6 +1,6 @@
 # 💫 About Me
 **Full Name:** MD. Mirazul Haq Srabon  
-**Preferred Name:** Miraz  
+**Preferred Name:** Miraz Or Srabon
 **Date of Birth:** 18 December 2009 / 1 Muharram 1431 AH  
 **Religion:** Islam  
 **Education:** Class 10 Student  
