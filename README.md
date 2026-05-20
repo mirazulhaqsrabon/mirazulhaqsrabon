@@ -1,6 +1,7 @@
 # 💫 About Me
 **Full Name:** MD. Mirazul Haq Srabon  
 **Preferred Name:** Miraz Or Srabon
+
 **Date of Birth:** 18 Dec  
 **Religion:** Islam  
 **Location:** Born in Mymensingh, currently residing in Dhaka  
